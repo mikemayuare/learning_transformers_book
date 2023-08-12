@@ -1,0 +1,40 @@
+# Jupyter Notebook specific
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*.ipynb_meta
+*.log
+*.csv
+*.xls
+*.xlsx
+*.json
+*.html
+*.pdf
+*.png
+*.jpg
+
+# Python specific
+*.pyc
+*.pyo
+__pycache__/
+*.env
+*.egg-info/
+*.egg/
+
+# VSCode specific
+.vscode/
+.history
+.pytest_cache/
+
+# IDE project files
+*.pyproj
+*.iml
+.idea/
+
+# Virtual environments
+venv/
+env/
+
+# Miscellaneous
+.DS_Store
+*.swp
+*.swo
